@@ -1,0 +1,18 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# OS Files
+.DS_Store
+
+# Logs
+*.log
+
+# Lombok config
+.lombok/ 
